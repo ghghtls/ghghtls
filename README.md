@@ -78,10 +78,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghghtls&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghghtls&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
-
 ---
 
 ### ✍️ Blog
