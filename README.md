@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요, 신성재입니다 👋</h1>
+
 <h3 align="center">📱 Flutter 앱 개발자 & ☕ Java 백엔드 개발자</h3>
 
 <p align="center">
