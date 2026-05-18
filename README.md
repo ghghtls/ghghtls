@@ -66,7 +66,7 @@
 |---|---|---|---|
 | 🗺️ **[TravelMuse](https://github.com/jinsung99123/travel_muse_app)** | AI 성향 테스트 기반 여행 일정 추천 앱<br/>AI 추천받기 · 지도 루트 · 커뮤니티 | Flutter · Firebase · Gemini · Kakao Maps | [![App Store](https://img.shields.io/badge/App_Store-000?style=flat-square&logo=apple)](https://apps.apple.com/kr/app/travelmuse/id6747365666) |
 | 🌐 **[ShareLingo](https://github.com/zero-to-one-flutter/flutter-share-lingo)** | 글로벌 언어 교류 SNS 앱<br/>YOLO 이미지 필터링 · 투표 · 좋아요 | Flutter · Firebase · YOLOv8 + TFLite | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=com.zerotoone.sharelingo) |
-| 💼 **PeopleJob** | 취업 플랫폼 풀스택 리뉴얼<br/>JWT 인증 · Redis 캐시 · 19개 REST API | Spring Boot · Flutter · MySQL · Redis | 개발 중 |
+| 💼 **PeopleJob** | 취업 플랫폼 풀스택 리뉴얼<br/>JWT 인증 · Redis 캐시 · 19개 REST API | Spring Boot · Flutter · MySQL · Redis | 개발 완료 |
 | 📊 **Tableau 매출 분석** | 스파르타 데이터분석 과정 수료 프로젝트<br/>지역·카테고리별 매출 대시보드 3종 | Tableau · Excel | — |
 
 ---
