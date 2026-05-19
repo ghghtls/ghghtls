@@ -1,23 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,12,20&amp;height=200&amp;section=header&amp;text=Seongjae+Shin&amp;fontSize=55&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Java+%26+Flutter+Developer&amp;descAlignY=58&amp;descSize=22&amp;animation=fadeIn" width="100%"/>
+<img src="./img/banner-top.svg" width="100%"/>
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;width=620&amp;height=80&amp;lines=Flutter+%26+Java+Backend+Developer%3BiOS+%2F+Android+Real+Deployment+Experience%3BAI+%26+Firebase+%26+Spring+Boot" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=620&height=80&lines=Flutter+%26+Java+Backend+Developer%3BiOS+%2F+Android+Real+Deployment+Experience%3BAI+%26+Firebase+%26+Spring+Boot" alt="Typing SVG"/>
 
 <br/><br/>
 
 <a href="https://ghghtls.github.io/petershin.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&amp;logo=githubpages&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </a>
 <a href="https://velog.io/@petershin/posts">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&amp;logo=velog&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
 </a>
 <a href="mailto:ghghtls2@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=ghghtls&amp;style=for-the-badge&amp;color=58a6ff&amp;labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=ghghtls&style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
 
 </div>
 
@@ -100,7 +105,7 @@ class Developer {
 ## 🏆 Trophy
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ghghtls&amp;theme=tokyonight&amp;no-frame=true&amp;column=6&amp;margin-w=8&amp;no-bg=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ghghtls&theme=tokyonight&no-frame=true&column=6&margin-w=8&no-bg=true"/>
 </div>
 
 ---
@@ -109,6 +114,6 @@ class Developer {
 
 **📝 [velog.io/@petershin](https://velog.io/@petershin/posts)** &nbsp;|&nbsp; **🖥️ [Portfolio](https://ghghtls.github.io/petershin.github.io/)**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" width="100%"/>
+<img src="./img/banner-bottom.svg" width="100%"/>
 
 </div>
