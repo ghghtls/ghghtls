@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=petershin&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Java%20%26%20Flutter%20Full-Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=신성재%20%7C%20Seongjae%20Shin&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Java%20%26%20Flutter%20Developer&descAlignY=58&descSize=20&animation=fadeIn" />
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=620&height=80&lines=📱+Flutter+%26+☕+Java+Backend+Developer;🚀+iOS+%2F+Android+실배포+경험+보유;🤖+AI+%26+Firebase+%26+Spring+Boot+활용" alt="Typing SVG"/>
