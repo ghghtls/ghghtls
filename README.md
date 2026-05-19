@@ -4,9 +4,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=620&height=80&lines=Flutter+%26+Java+Backend+Developer%3BiOS+%2F+Android+Real+Deployment+Experience%3BAI+%26+Firebase+%26+Spring+Boot" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=620&height=80&lines=Flutter+%26+Java+Backend+Developer%3BiOS+%2F+Android+Real+Deployment+Experience%3BAI+%26+Firebase+%26+Spring+Boot" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -94,18 +92,6 @@ class Developer {
 | 💼 | **PeopleJob** | 취업 플랫폼 풀스택 리뉴얼<br/>`JWT 인증` `Redis 캐시` `REST API ×19` | Spring Boot · Flutter<br/>MySQL · Redis | 🔨 개발 완료 |
 | 🏢 | **코드명인 인턴** | 중고 자동차 부품 3자 거래 앱<br/>`Shopify OAuth` `역할별 인증 API` | Java · Spring Boot<br/>Flutter · Shopify API | — |
 | 📊 | **Tableau 매출 분석** | 스파르타 데이터분석 수료 프로젝트<br/>`지역별` `카테고리별` `대시보드 3종` | Tableau · Excel | — |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ghghtls&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghghtls&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" height="165"/>
 
 </div>
 
