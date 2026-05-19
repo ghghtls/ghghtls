@@ -1,21 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=신성재%20%7C%20Seongjae%20Shin&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Java%20%26%20Flutter%20Developer&descAlignY=58&descSize=20&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Seongjae+Shin&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Java+%26+Flutter+Developer&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
 
+<br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=620&height=80&lines=📱+Flutter+%26+☕+Java+Backend+Developer;🚀+iOS+%2F+Android+실배포+경험+보유;🤖+AI+%26+Firebase+%26+Spring+Boot+활용" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=620&height=80&lines=Flutter+%26+Java+Backend+Developer%3BiOS+%2F+Android+Real+Deployment+Experience%3BAI+%26+Firebase+%26+Spring+Boot" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
 <a href="https://ghghtls.github.io/petershin.github.io/">
-  <img src="https://img.shields.io/badge/🖥️_Portfolio-0d1117?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </a>
 <a href="https://velog.io/@petershin/posts">
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
 </a>
-<a href="mailto:blogmore7@gmail.com">
+<a href="mailto:ghghtls2@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=ghghtls&style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
@@ -98,16 +99,13 @@ class Developer {
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ghghtls&theme=tokyonight&hide_border=true&locale=ko&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghghtls&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ghghtls&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ghghtls&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghghtls&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" height="165"/>
 
 </div>
 
